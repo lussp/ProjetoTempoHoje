@@ -9,7 +9,7 @@ on:
 
 jobs:
   update-weather:
-    runs-on: ubuntu-3.10
+    runs-on: ubuntu-lastest
 
     steps:
     - name: Check out repository
