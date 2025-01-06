@@ -1,0 +1,2 @@
+cd your-repo
+python update_weather.py
